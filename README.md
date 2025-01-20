@@ -10,7 +10,7 @@ I am a Computer Engineering and Computer Science student from Boston. I'm obsess
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@bruv3722)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/nsp1vst993jizvym1uh08dqys?si=5a67bc44f2034392)
 
-
+![Donut](https://github.com/Bruvato/Bruvato/blob/main/donut_spin_gif.gif)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,vercel,vite,tailwind,threejs,d3,py,java,cs,cpp,git,github,unity,unreal,godot,blender,ps,pr,ae,matlab,arduino,notion)](https://skillicons.dev)
 
