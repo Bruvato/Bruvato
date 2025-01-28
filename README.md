@@ -1,5 +1,5 @@
 ### Hey there, I'm Raymond 👋
-I am a Computer Engineering and Computer Science student from Boston. I'm obsessed with making video games with Unity and Godot. If you need anything, feel free to reach out!
+I am a Computer Engineering and Computer Science student from Boston. I love making video games with Unity and building cool stuff. If you need anything, feel free to reach out!
 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruvato)
@@ -10,7 +10,10 @@ I am a Computer Engineering and Computer Science student from Boston. I'm obsess
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@bruv3722)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/nsp1vst993jizvym1uh08dqys?si=5a67bc44f2034392)
 
+[![Static Badge](https://img.shields.io/badge/check%20out%20my%20website!-red?style=for-the-badge)](https://www.ray-xu.com/)
+
 ![Donut](https://github.com/Bruvato/Bruvato/blob/main/donut_spin_gif.gif)
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,vercel,vite,tailwind,threejs,d3,py,java,cs,cpp,git,github,unity,unreal,godot,blender,ps,pr,ae,matlab,arduino,notion)](https://skillicons.dev)
 
