@@ -1,5 +1,6 @@
 ### Hey there, I'm Raymond 👋
-I am a Computer Engineering and Computer Science student from Boston. I love making video games with Unity and building cool stuff. If you need anything, feel free to reach out!
+
+I'm a First-year Computer Science and Computer Engineering student at Northeastern University, passionate about software and design, with interests in AI/ML and embedded systems. I also love competing in hackathons and developing games. If you need anything, feel free to reach out at [xu.raym@northeastern.edu](mailto:xu.raym@northeastern.edu)!
 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruvato)
