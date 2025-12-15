@@ -16,7 +16,7 @@ I'm a First-year Computer Science and Computer Engineering student at Northeaste
 ![Donut](https://github.com/Bruvato/Bruvato/blob/main/donut_spin_gif.gif)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,vercel,vite,tailwind,firebase,supabase,fastapi,threejs,d3,p5js,py,java,cs,cpp,lua,git,github,bash,docker,unity,unreal,godot,blender,ps,pr,ae,matlab,latex,arduino,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,vercel,vite,tailwind,firebase,supabase,fastapi,threejs,d3,p5js,py,java,cs,c,cpp,lua,git,github,bash,docker,unity,unreal,godot,blender,ps,pr,ae,linux,arch,vim,matlab,latex,arduino,notion)](https://skillicons.dev)
 
 <!--
 **Bruvato/Bruvato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
