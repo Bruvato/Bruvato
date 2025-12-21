@@ -1,6 +1,6 @@
-### Hey there, I'm Raymond 👋
+### Hey there, I'm Ray 👋
 
-I'm a First-year Computer Science and Computer Engineering student at Northeastern University, passionate about software and design, with interests in AI/ML and embedded systems. I also love competing in hackathons and developing games. If you need anything, feel free to reach out at [xu.raym@northeastern.edu](mailto:xu.raym@northeastern.edu)!
+I'm a Computer Science and Computer Engineering student from Boston, passionate about software and design, with interests in AI/ML and embedded systems. I also love competing in hackathons and developing games. If you need anything, feel free to reach out at [xu.raym@northeastern.edu](mailto:xu.raym@northeastern.edu)!
 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruvato)
