@@ -18,7 +18,7 @@ I'm a Computer Science and Computer Engineering student from Boston, passionate 
 ![Donut](https://github.com/Bruvato/Bruvato/blob/main/donut_spin_gif.gif)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,vercel,vite,tailwind,firebase,supabase,fastapi,threejs,d3,p5js,py,java,cs,c,cpp,lua,git,github,bash,docker,unity,unreal,godot,blender,ps,pr,ae,linux,arch,vim,matlab,latex,arduino,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,vercel,vite,tailwind,firebase,supabase,fastapi,threejs,d3,p5js,py,java,cs,c,cpp,lua,git,github,bash,docker,unity,unreal,godot,blender,ps,pr,ae,postgres,linux,arch,neovim,matlab,latex,arduino,raspberrypi,notion,figma)](https://skillicons.dev)
 
 <!--
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruvato)
