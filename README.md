@@ -1,6 +1,6 @@
 ### Hey there, I'm Ray 👋
 
-I'm a Computer Science and Computer Engineering student from Boston, passionate about software and design, with interests in AI/ML and embedded systems. I also love competing in hackathons and developing games. If you need anything, feel free to reach!
+I'm a Computer Science and Computer Engineering student from Boston, passionate about software and design, with interests in AI/ML and embedded systems. I also love competing in hackathons and developing games. If you need anything, feel free to reach out!
 
 [![github](https://www.readmecodegen.com/api/social-icon?name=github&size=46&theme=dark&color=%23ffffff)](https://github.com/Bruvato)
 [![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=46&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fraymondyxu%2F)](https://www.linkedin.com/in/raymondyxu/)
